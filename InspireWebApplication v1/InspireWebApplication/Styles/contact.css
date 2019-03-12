@@ -1,0 +1,48 @@
+﻿
+
+
+.PImg2 {
+    background-image: url(../Images/PImag2.jpg);
+    min-height: 100vh;
+}
+
+
+.formTitle {
+    text-align: center;
+    font-size: 30px;
+    padding: 10% 0 30px 0;
+    word-spacing: 10px;
+    font-weight: bold;
+    color:#000;
+}
+
+.RFormUl input[type=text] {
+    min-width: 100%;
+    background-color: #eee;
+    border: 1px solid #666;
+    display: inline-block;
+    padding: 3px 5px;
+    margin-bottom: 10px;
+}
+
+.RFormUl textarea {
+    min-width: 100%;
+    background-color: #eee;
+    border: 1px solid #666;
+    display: inline-block;
+    padding: 3px 5px;
+}
+
+
+.btn-RSubmit {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-align: center;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    word-spacing: 10px;
+}
